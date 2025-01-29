@@ -17,5 +17,5 @@ This project is a simple Python-based calculator for matrix operations using Num
 
 ## How to Run:
 1. Install dependencies: `pip install numpy`
-2. Run the script: `python calculator.py`
+2. Run the script: 'python matrixcalc.py'
 
