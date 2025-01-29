@@ -1,0 +1,2 @@
+# numpyCalC
+playing w numpy 
