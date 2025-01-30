@@ -1,5 +1,5 @@
 # numpyCalC
-playing w numpy
+playing w numpy and JS
 
 # Matrix Operations Calculator
 
